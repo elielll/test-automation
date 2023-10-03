@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f629c7c5-01a6-4856-9f1d-c18a30de7b6b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/TestProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/log.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/output.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/selenium-screenshot-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output/selenium-screenshot-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resource/CommonFunctionality.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resource/PageObjects/HeaderPage.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resource/PageObjects/LandingPage.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resource/PageObjects/ProductDetailsPage.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resource/PageObjects/SearchResultsPage.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resource/eBay_userDefinedKeywords.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/Google/FunctionalTestSuite/GoogleSearch.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/eBay/Verify_search_functionality.robot" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2VWSCKQFRgaVQVGPaROrkIscPb6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\eliel\PycharmProjects\TestProject\Tests\Google\FunctionalTestSuite" />
+    </key>
+  </component>
+  <component name="RobotOptionsProvider">
+    <option name="capitalizeKeywords" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f629c7c5-01a6-4856-9f1d-c18a30de7b6b" name="Changes" comment="" />
+      <created>1694950214934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694950214934</updated>
+    </task>
+    <servers />
+  </component>
+</project>
