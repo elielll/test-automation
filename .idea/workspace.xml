@@ -5,25 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f629c7c5-01a6-4856-9f1d-c18a30de7b6b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/TestProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Output/log.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Output/output.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Output/report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Output/selenium-screenshot-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Output/selenium-screenshot-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resource/CommonFunctionality.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resource/PageObjects/HeaderPage.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resource/PageObjects/LandingPage.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resource/PageObjects/ProductDetailsPage.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resource/PageObjects/SearchResultsPage.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resource/eBay_userDefinedKeywords.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/Google/FunctionalTestSuite/GoogleSearch.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/eBay/Verify_search_functionality.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resource/PageObjects/HeaderPage.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Resource/PageObjects/HeaderPage.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resource/PageObjects/SearchResultsPage.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Resource/PageObjects/SearchResultsPage.robot" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
