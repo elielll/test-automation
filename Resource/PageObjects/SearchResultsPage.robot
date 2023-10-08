@@ -5,7 +5,8 @@ Resource    ./HeaderPage.robot
 ${search_result} =    results for
 *** Keywords ***
 Verify Search Result
-    Page Should Contain    ${search_result}    ${search_text.key1}
+    [Arguments]    ${search_text}
+    Page Should Contain    ${search_result}    ${search_text}
 Select Product Condition
     Mouse Over    xpath=//button[contains(@class, 'fake-menu-button__button') and .//span[text()='Condition']]
     Click Element    xpath=//button[contains(@class, 'fake-menu-button__button') and .//span[text()='Condition']]

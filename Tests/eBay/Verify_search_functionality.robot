@@ -13,14 +13,19 @@ Test Teardown    CommonFunctionality.Finnish test
 *** Test Cases ***
 
 #Test landing page functionality
-#    LandingPage.Verify Landing Page Contains
+#LandingPage.Verify Landing Page Contains
 
 Verify basic search functionality
     [Documentation]    This case verifies besic search functionatility
     [Tags]    Functional
 
-    HeaderPage.Input Search Text And Click Search
-    SearchResultsPage.Verify Search Result
+    HeaderPage.Input Search Text And Click Search    mobile
+    SearchResultsPage.Verify Search Result    mobile
+
+Verify basic search functionality1
+
+    HeaderPage.Input Search Text And Click Search    book
+    SearchResultsPage.Verify Search Result    book
 
 #Verify advanced search fuctionality
 #    HeaderPage.Click On Advanced Search Link
