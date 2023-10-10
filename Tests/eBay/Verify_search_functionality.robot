@@ -22,18 +22,13 @@ Verify basic search functionality
     HeaderPage.Input Search Text And Click Search    mobile
     SearchResultsPage.Verify Search Result    mobile
 
-Verify basic search functionality1
+Verify advanced search fuctionality
+    HeaderPage.Click On Advanced Search Link
 
-    HeaderPage.Input Search Text And Click Search    book
-    SearchResultsPage.Verify Search Result    book
-
-#Verify advanced search fuctionality
-#    HeaderPage.Click On Advanced Search Link
-
-#Verify product details functionality
-#    HeaderPage.Input Search Text And Click Search
-#    SearchResultsPage.Select Product
-#    sleep    3s
-#    ProductDetailsPage.Verify Buy Button
+Verify product details functionality
+    HeaderPage.Input Search Text And Click Search    mobile
+    SearchResultsPage.Select Product
+    sleep    3s
+    ProductDetailsPage.Verify Buy Button
 
 
